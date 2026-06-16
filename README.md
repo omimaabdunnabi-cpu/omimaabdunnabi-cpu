@@ -1,6 +1,7 @@
-# Hey 👋, I'm Omayma
+# Hey 👋, I'm Omayma Abdunnabi
 
 ### Computer Science Student | Aspiring Software Engineer
+
 
 I'm a Computer Science student with a strong interest in software development, web technologies, databases, networking, and cryptography.
 
@@ -17,7 +18,7 @@ I enjoy exploring different areas of technology, from programming and system ana
 * 📊 Participated in a complete Systems Analysis & Design project for a telecommunications technical support department
 * 📚 McKinsey Forward Graduate
 * 🚀 Passionate about learning new technologies and understanding how systems work
-
+<a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
 ### 🔨 Technologies & Tools
 
 C++ • Python • PHP • SQL • HTML • CSS • Git • GitHub • MySQL
